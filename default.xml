@@ -8,7 +8,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.cyanogenmod.org" />
+           review="review.alteros.cf:8080" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
